@@ -58,16 +58,6 @@ I am Jian131, a software engineer passionate about web development and artificia
 
 [![Jian's GitHub stats](https://github-readme-stats.vercel.app/api?username=jian131&show_icons=true&theme=radical)](https://github.com/jian131/github-readme-stats)
 
-## 📫 Contact | 联系方式
-
-You can find me on these platforms:
-
-你可以在这些平台找到我:
-
-- LinkedIn: [https://www.linkedin.com/in/jian131/](https://www.linkedin.com/in/jian131/)
-- Twitter: [https://twitter.com/jian131](https://twitter.com/jian131)
-- Email: jian131@example.com
-
 Thank you for visiting my profile! 
 
 感谢你访问我的主页！
