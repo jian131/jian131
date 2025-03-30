@@ -12,13 +12,13 @@ I am Jian131, a software engineer passionate about web development and artificia
 - 🌱 I’m currently learning **Machine Learning and Data Science**
 - 👯 I’m looking to collaborate on **open source projects**
 - 💬 Ask me about **JavaScript, Python, Java, PHP, and React**
-- 📫 How to reach me: **jian131@example.com**
+- 📫 How to reach me: **dawndawn335@gmail.com**
 - ⚡ Fun fact: I enjoy playing chess and reading science fiction books
 
 - 🌱 我目前正在学习 **机器学习和数据科学**
 - 👯 我希望能在 **开源项目** 中合作
 - 💬 可以问我关于 **JavaScript, Python, Java, PHP 和 React** 的问题
-- 📫 联系方式: **jian131@example.com**
+- 📫 联系方式: **dawndawn335@gmail.com**
 - ⚡ 趣事: 我喜欢下棋和阅读科幻小说
 
 ## 🛠️ Skills | 技能
