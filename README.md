@@ -33,20 +33,6 @@ I am Jian131, a software engineer passionate about web development and artificia
 
 ## 🌟 Featured Projects | 特色项目
 
-### [pmcmgm](https://github.com/jian131/pmcmgm)
-- **Languages:** PHP (56.6%), Blade (42.9%), Other (0.5%)
-- **Description:** Pharmaceutical management.
-
-- **语言:** PHP (56.6%), Blade (42.9%), 其他 (0.5%)
-- **描述:** 药品管理系统。
-
-### [software](https://github.com/jian131/software)
-- **Languages:** Java (100%)
-- **Description:** Application development course assignment.
-
-- **语言:** Java (100%)
-- **描述:** 应用开发课程作业。
-
 ### [CSE485_2023](https://github.com/jian131/CSE485_2023)
 - **Languages:** PHP (97.5%), CSS (1.6%), Hack (0.9%)
 - **Description:** 2023 academic project.
@@ -54,26 +40,12 @@ I am Jian131, a software engineer passionate about web development and artificia
 - **语言:** PHP (97.5%), CSS (1.6%), Hack (0.9%)
 - **描述:** 2023 年学术项目。
 
-### [shoot](https://github.com/jian131/shoot)
-- **Languages:** HTML (100%)
-- **Description:** Project about HTML.
+### [pmcmgm](https://github.com/jian131/pmcmgm)
+- **Languages:** PHP (56.6%), Blade (42.9%), Other (0.5%)
+- **Description:** A comprehensive pharmacy management system built with Laravel for managing drug stores, inventory, sales, and staff.
 
-- **语言:** HTML (100%)
-- **描述:** 关于 HTML 的项目。
-
-### [simplefit](https://github.com/jian131/simplefit)
-- **Languages:** Java (100%)
-- **Description:** Simple fitness management application.
-
-- **语言:** Java (100%)
-- **描述:** 简单的健身管理应用程序。
-
-### [qlt](https://github.com/jian131/qlt)
-- **Languages:** HTML (66.1%), C++ (26.7%), CSS (5.8%), JavaScript (1.4%)
-- **Description:** Time management system.
-
-- **语言:** HTML (66.1%), C++ (26.7%), CSS (5.8%), JavaScript (1.4%)
-- **描述:** 时间管理系统。
+- **语言:** PHP (56.6%), Blade (42.9%), 其他 (0.5%)
+- **描述:** 使用 Laravel 构建的综合药房管理系统，用于管理药店、库存、销售和员工。
 
 ### [pharmacymanagement](https://github.com/jian131/pharmacymanagement)
 - **Languages:** Not specified.
@@ -81,6 +53,13 @@ I am Jian131, a software engineer passionate about web development and artificia
 
 - **语言:** 未指定。
 - **描述:** 药品管理系统。
+
+### [simplefit](https://github.com/jian131/simplefit)
+- **Languages:** Java (100%)
+- **Description:** Simple fitness management application.
+
+- **语言:** Java (100%)
+- **描述:** 简单的健身管理应用程序。
 
 ### [experience-primer-copilot-jian131](https://github.com/Exp-Primer-Copilot-Cohort-1/experience-primer-copilot-jian131)
 - **Description:** Project created by GitHub Classroom.
