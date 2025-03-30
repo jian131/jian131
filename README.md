@@ -47,29 +47,12 @@ I am Jian131, a software engineer passionate about web development and artificia
 - **语言:** PHP (56.6%), Blade (42.9%), 其他 (0.5%)
 - **描述:** 使用 Laravel 构建的综合药房管理系统，用于管理药店、库存、销售和员工。
 
-### [pharmacymanagement](https://github.com/jian131/pharmacymanagement)
-- **Languages:** Not specified.
-- **Description:** Pharmaceutical management.
-
-- **语言:** 未指定。
-- **描述:** 药品管理系统。
-
 ### [simplefit](https://github.com/jian131/simplefit)
 - **Languages:** Java (100%)
 - **Description:** Simple fitness management application.
 
 - **语言:** Java (100%)
 - **描述:** 简单的健身管理应用程序。
-
-### [experience-primer-copilot-jian131](https://github.com/Exp-Primer-Copilot-Cohort-1/experience-primer-copilot-jian131)
-- **Description:** Project created by GitHub Classroom.
-
-- **描述:** 由 GitHub Classroom 创建的项目。
-
-### [series-intro-to-github-flow-jian131](https://github.com/Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-jian131)
-- **Description:** Project created by GitHub Classroom.
-
-- **描述:** 由 GitHub Classroom 创建的项目。
 
 ## 📈 GitHub Stats | GitHub 统计
 
